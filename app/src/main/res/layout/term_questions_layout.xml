@@ -2,19 +2,19 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <usi.memotion2.UI.views.SWLSSurveyView
+    <usi.memotion2personal.UI.views.SWLSSurveyView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/termSurvey_SWLS"/>
-    <usi.memotion2.UI.views.SHSSurveyView
+    <usi.memotion2personal.UI.views.SHSSurveyView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/termSurvey_SHS"/>
-    <usi.memotion2.UI.views.PSSSurveyView
+    <usi.memotion2personal.UI.views.PSSSurveyView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/termSurvey_PSS"/>
-    <usi.memotion2.UI.views.PHQ8SurveyView
+    <usi.memotion2personal.UI.views.PHQ8SurveyView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/termSurvey_PHQ8"/>

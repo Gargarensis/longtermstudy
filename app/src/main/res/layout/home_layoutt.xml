@@ -3,7 +3,7 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <usi.memotion2.UI.views.HomeView
+    <usi.memotion2personal.UI.views.HomeView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/homeHomeView"/>

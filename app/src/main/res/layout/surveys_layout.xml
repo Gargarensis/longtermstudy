@@ -12,15 +12,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-            <usi.memotion2.UI.views.PAMSurveyView
+            <usi.memotion2personal.UI.views.PAMSurveyView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/surveyFragment_pamView"/>
-            <usi.memotion2.UI.views.PWBSurveyView
+            <usi.memotion2personal.UI.views.PWBSurveyView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/surveyFragment_pwbView"/>
-            <usi.memotion2.UI.views.TermSurveyView
+            <usi.memotion2personal.UI.views.TermSurveyView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/surveyFragment_termView"/>

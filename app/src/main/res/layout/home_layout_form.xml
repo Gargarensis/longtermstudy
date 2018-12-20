@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-    <usi.memotion2.UI.views.RegistrationView
+    <usi.memotion2personal.UI.views.RegistrationView
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </LinearLayout>

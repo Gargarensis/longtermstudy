@@ -217,6 +217,13 @@
                 android:layout_weight="0.2"/>
         </RadioGroup>
 
+        <CheckBox
+            android:id="@+id/ediary_is_weekly_activity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:text="Is this a weekly activity?" />
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
